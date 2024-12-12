@@ -1,0 +1,14 @@
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev-12Aralık.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev_12Aralik.Form1.resources
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev_12Aralık.ogrenci_isleriDers.resources
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev_12Aralık.ogrenci_panel.resources
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev_12Aralık.ogretmen_panel.resources
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev_12Aralık.Properties.Resources.resources
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev-12Aralık.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev-12Aralık.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\bin\Debug\Odev-12Aralık.exe.config
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\bin\Debug\Odev-12Aralık.exe
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\bin\Debug\Odev-12Aralık.pdb
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev-12Aralık.exe
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev-12Aralık.pdb
+C:\Users\furka\source\repos\Odev-12Aralık\Odev-12Aralık\obj\Debug\Odev_12Aralik.OgrenciIsleri.resources
